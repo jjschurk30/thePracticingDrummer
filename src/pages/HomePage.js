@@ -4,11 +4,12 @@ import '../App.css';
 import Hero from '../components/Hero';
 import { Link } from 'react-router-dom';
 import Content from '../components/Content';
-import Image from 'react-bootstrap/Image';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Mike from '../images/HomeImages/mike.jpg';
+import Image from 'react-bootstrap/Image';
+
 
 
 
@@ -21,7 +22,7 @@ return (
 <div  className = "intro">
 
 
-<img src={Mike} class = "mike" alt = {Mike} />
+<img src={Mike} class = "mike" alt = {Mike}  />
 
 
     <p>Hello world. My name is Mike and welcome to <b>The Practicing Drummer</b>. This is my site dedicated to the study
@@ -29,10 +30,10 @@ return (
         private lessons since the early 2000’s. Throughout my teaching experience I’ve accumulated a lot of material and
         exercises for students to practice. I have decided to share this material with you through this website.</p>
 
-    <p>This site is broken up into two basic sections:   <Link to="/BlogPage"><b class = "bookLinkTwo">Book</b></Link> and
-             <Link to="/BlogPage"><b class = "blogLinkTwo"> Blog</b></Link>.</p>
+    <p>This site is broken up into two basic sections:   <b class = "bookWord">Book</b> and
+             <b class = "blogWord"> Blog</b></p>
 
-         <Link to="/BlogPage"><b class = "bookLink">Book</b></Link>
+         <Link to="/BlogPage"><b class = "bookLinkOne">Book</b></Link>
     <p>This is all of the material I provide to my weekly private students. It is in the same order and broken up into
         chapters. The chapters are not meant to represent weeks although it could be worked through in that way. Some
         students will progress quickly and some will take more time. That’s perfectly OK. You know yourself and your
@@ -46,7 +47,7 @@ return (
         the art of drums!</p>
 
 
-            <Link to="/BlogPage"><b class = "blogLink">Blog</b></Link>
+            <Link to="/BlogPage"><b class = "blogLinkOne">Blog</b></Link>
 
 
             <p>This is basically my open journal. For the past couple of years I’ve been on the road semi-regularly. In the

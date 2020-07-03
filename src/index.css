@@ -18,22 +18,21 @@ code {
   margin-left: auto;
   margin-right: auto;
   width: 800px;
-  height: 200px;
 }
 
 .clef {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 300px;
-  height: 300px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 200px;
+height: 200px;
 }
 
 .bass {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
+  width: 350px;
   height: 300px;
 }
 
@@ -41,64 +40,79 @@ code {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
 }
 
 .measure {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
-  height: 300px;
+  width: 800px;
+  height: 200px;
 }
 
 .time {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 270px;
 }
 
 .quarter {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 270px;
 }
 
 .four {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
-  height: 300px;
+  width: 800px;
+  height: 200px;
 }
 
 .quarterRest {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
-  height: 300px;
+  width: 265px;
+  height: 265px;
 }
 
 .fourRest {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
-  height: 300px;
+  width: 800px;
+  height: 200px;
+}
+.quarterRest {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 265px;
+  height: 265px;
+}
+
+.fourRest {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  height: 200px;
 }
 
 .repeat {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
 }
 
 
@@ -106,9 +120,37 @@ code {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
-  height: 300px;
+  width: 800px;
+  height: 200px;
 }
 
 
+.hiHat {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 250px;
+}
 
+.hiHatAndSnare {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+
+.hiHatAndBass {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+
+.phrase {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+
+}

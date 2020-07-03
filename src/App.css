@@ -81,53 +81,57 @@
         margin-top: 50px;
         }
 
-        .blogLink {
-                 display: block;
-                 margin-left: auto;
-                 margin-right: auto;
+        .blogNav {
+
                  color: black;
-                 font-size: 40px;
+                 font-size: 30px;
                  }
 
-                   .bookLink {
-                         display: block;
-                         margin-left: auto;
-                         margin-right: auto;
+                   .bookNav {
                          color: black;
-                         font-size: 40px;
+                         font-size: 30px;
                          }
 
-                                 .blogLinkTwo {
+                         .mainNav {
 
-                                          color: black;
+                                              color: black;
+                                              font-size: 30px;
 
-                                          }
-
-                                            .bookLinkTwo {
-
-                                                  color: black;
-
-                                                  }
+                         }
 
 
-.navTitle {
-text-align: center;
 
-}
-.mainLink {
+
+
+
+.blogWord {
 color: black;
-font-size: 70%;
+font-size: 100%;
+text-align:center;
 
 }
 
-.blogLink {
+.bookWord {
 color: black;
-font-size: 70%;
+font-size: 100%;
+text-align:center;
 
 }
 
-.bookLink {
+.blogLinkOne {
 color: black;
-font-size: 70%;
+font-size: 150%;
+             display: block;
+                      margin-left:auto;
+                       margin-right:auto;
+
+}
+
+.bookLinkOne {
+color: black;
+font-size: 150%;
+             display: block;
+                      margin-left:auto;
+                       margin-right:auto;
 
 }

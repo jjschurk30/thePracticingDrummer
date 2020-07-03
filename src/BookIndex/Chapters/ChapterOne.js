@@ -1,6 +1,7 @@
 import React from 'react';
 import Hero from '../../components/Hero';
 import Content from '../../components/Content';
+import Image from 'react-bootstrap/Image';
 //import { Link } from 'react-router-dom';
 import Staff from '../../images/ChapterOneImages/staff.png';
 import Clef from '../../images/ChapterOneImages/percussion_clef.png';
@@ -14,6 +15,7 @@ import QuarterRest from '../../images/ChapterOneImages/quarter_rest.png';
 import FourRest from '../../images/ChapterOneImages/four_four_rests.png';
 import Repeat from '../../images/ChapterOneImages/repeat.png';
 import FourMeasure from '../../images/ChapterOneImages/four_measures.png';
+
 
 
 
@@ -35,7 +37,7 @@ return (
 
     <p class="post">This is a <b>Staff</b>. It has 5 lines and 4 spaces.</p>
 
-<img src={Staff} class = "staff" alt = {Staff} />
+<Image src={Staff} class = "staff" alt = {Staff} fluid />
 
     <p class="post">This is a <b>Percussion Clef</b>. It is placed at the beginning of a piece of music to let the
         reader know a non-pitched percussion instrument, such as a drum set, is being used.</p>
@@ -49,11 +51,11 @@ return (
 
     <p class="post">This is a <b>Barline</b>. It is used to divide the music and make it easier to read.</p>
 
-<img src={Barline} class = "barline" alt = {Barline} />
+<img src={Barline} class = "barline" alt = {Barline}  />
 
         <p class="post">The space between the barline is called a <b>Measure</b>.</p>
 
-<img src={Measure} class = "measure" alt = {Measure} />
+<Image src={Measure} class = "measure" alt = {Measure} fluid />
 
         <p class="post">This is a <b>Time Signature</b>. It is placed at the beginning of a piece of music to let
             the reader know how beats are in each measure. This time signature is <b>4/4</b>.
@@ -68,7 +70,7 @@ return (
     <p class="post">In 4/4 there are four quarter notes per measure. The following example plays four bass drums in
         the first measure and four snare drums in the second measure.</p>
 
-<img src={Four} class = "four" alt = {Four} />
+<Image src={Four} class = "four" alt = {Four} fluid />
 
         <p class="post">This is a <b>Quarter Rest</b>. It means don’t play.</p>
 
@@ -77,7 +79,7 @@ return (
     <p class="post">The following example plays a bass drum on beat 1 and a snare drum on beat 3. Beats 2 & 4 are
         quarter rests so nothing is played and they are silent.</p>
 
-<img src={FourRest} class = "fourRest" alt = {FourRest} />
+<Image src={FourRest} class = "fourRest" alt = {FourRest} fluid />
 
         <p class="post">This is a <b>Repeat Sign</b>. It means go back to the beginning and play again without
             stopping.</p>
@@ -86,8 +88,7 @@ return (
 
     <p class="post">The following example puts it all together. It’s four measures long and repeats itself.</p>
 
-<img src={FourMeasure} class = "fourMeasure" alt = {FourMeasure} />
-
+<Image src={FourMeasure} class = "fourMeasure" alt = {FourMeasure} fluid/>
 
 
 

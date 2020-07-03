@@ -53,15 +53,14 @@ return(
 <Router>
 
 
-<Container className = "p-0" fluid = {true} >
 
 
 
-
-<h1 className="navTitle"><Link className = "blogLink" to = "/BlogPage" >Blog
-     &bull;<Link className = "mainLink" to="/">The Practicing Drummer
-    &bull;<Link className = "bookLink" to="/BookPage">Book</Link></Link></Link></h1>
-
+<Nav className=  "justify-content-center">
+<Nav.Item><Link className = "blogNav" to = "/BlogPage" >Blog &bull;</Link></Nav.Item>
+    <Nav.Item><Link className = "mainNav" to="/"> The Practicing Drummer </Link></Nav.Item>
+    <Nav.Item><Link className = "bookNav" to="/BookPage">&bull;  Book</Link></Nav.Item>
+</Nav>
 
 
 
@@ -77,7 +76,6 @@ subTitle = {this.state.book.subTitle} />} />
 
 <Route path = "/BlogPage" render = {() => <BlogPage title = {this.state.blog.title} />} />
 
-</Container>
 
 
 

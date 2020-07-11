@@ -20,7 +20,7 @@ return (
 
      <h1 class = "chapterNumber">Chapter Two</h1>
 
-     <h2 class = "chapterTitle">The Hi-Hat</h2>
+     <h2 class = "chapterNumber">The Hi-Hat</h2>
 
 
      <p class="post">For beginner drum beats the hi-hat will remain in the <b>closed position</b>.</p>

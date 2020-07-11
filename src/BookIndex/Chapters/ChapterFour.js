@@ -1,7 +1,18 @@
 import React from 'react';
 import Hero from '../../components/Hero';
 import Content from '../../components/Content';
-//import { Link } from 'react-router-dom';
+import Image from 'react-bootstrap/Image';
+import Quarter from '../../images/ChapterFourImages/quarter_Notes.png';
+import EighthNote from '../../images/ChapterFourImages/eighth_Note.png';
+import TwoConnect from '../../images/ChapterFourImages/2_Connect_8th.png';
+import FourConnect from '../../images/ChapterFourImages/4_Connect_8th.png';
+import EighthCount from '../../images/ChapterFourImages/8th_Count.png';
+import QuarterEighth from '../../images/ChapterFourImages/quarter_8th.png';
+import CoreOne from '../../images/ChapterFourImages/core_1.png';
+import CoreTwo from '../../images/ChapterFourImages/core_2.png';
+import CoreThree from '../../images/ChapterFourImages/core_3.png';
+import CoreFour from '../../images/ChapterFourImages/core_4.png';
+
 
 
 
@@ -18,14 +29,14 @@ return (
 
         <h1 class = "chapterNumber">Chapter Four</h1>
 
-        <h2 class = "chapterTitle">Basics</h2>
+        <h2 class = "chapterNumber">Basics</h2>
 
 
     <p class = "post">
         So far in the book we’ve only dealt with reading <b>Quarter Notes</b>.
         </p>
 
-
+<Image src={Quarter} class = "quarter"  fluid />
 
 
     <p class = "post">
@@ -33,6 +44,7 @@ return (
         But we generally “feel” music in <b>8th Notes</b>. A single 8th Note has a black note head and one flag.
     </p>
 
+<img src={EighthNote} class = "eighthNote"  />
 
     <p class = "post">
 
@@ -42,6 +54,9 @@ return (
     </p>
 
 
+<img src={TwoConnect} class = "twoConnect"  />
+
+<img src={FourConnect} class = "fourConnect"  />
 
     <p class = "post">
 
@@ -50,13 +65,15 @@ return (
 
     </p>
 
+
+
     <p class="post">8th Notes are played twice as fast as Quarter Notes and the count is: <b>‘1-an-2-an-3-an-4-an’.</b> Play the following example hand-to-hand(RLRL or LRLR) and count out loud.</p>
 
-
+<Image src={EighthCount} class = "eighthCount"  fluid />
 
     <p class="post">Here is a two measure phrase of Quarter Notes followed by 8th Notes. Remember that 8th Notes are exactly twice as fast as Quarter Notes. Play hand-to-hand and count out loud.</p>
 
-
+    <Image src={QuarterEighth} class = "quarterEighth" fluid />
 
     <p class = "post">
 
@@ -65,7 +82,7 @@ return (
 
     </p>
 
-    <h2 class = "chapterTitle">Core Four</h2>
+    <h2 class = "chapterNumber">Core Four</h2>
 
 
     <p class = "post">
@@ -91,6 +108,14 @@ return (
         example is sometimes referred to as a <b>2-Beat</b>. It is very simple in concept but in practice it can be tricky.
         Count out loud, <b>‘1-2-1-2’</b>, as you play the beat. Counting <b>out loud</b> will help you
     <b>tremendously</b> in the long run so <b>do it</b>.</p>
+
+        <Image src={CoreOne} class = "Core"  fluid />
+
+            <Image src={CoreTwo} class = "Core" fluid />
+
+                <Image src={CoreThree} class = "Core" fluid />
+
+                    <Image src={CoreFour} class = "Core"  fluid />
 
 
     <p class = "post">

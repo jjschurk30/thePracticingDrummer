@@ -33,7 +33,7 @@ return (
 
   <h1 class = "chapterNumber">Chapter One</h1>
 
-    <h2 class = "chapterTitle">Basics</h2>
+    <h2 class = "chapterNumber">Basics</h2>
 
     <p class="post">This is a <b>Staff</b>. It has 5 lines and 4 spaces.</p>
 
@@ -45,9 +45,9 @@ return (
 <img src={Clef} class = "clef" alt = {Clef} />
 
     <p class="post">Each space of the staff represents a different drum. The first space from the bottom is the
-        <b>Bass Drum</b>. The third space from the bottom is the <b>Snare Drum</b>.</p>
+        <b> Bass Drum</b>. The third space from the bottom is the <b>Snare Drum</b>.</p>
 
-<img src={Bass} class = "bass" alt = {Bass} />
+<img src={Bass} class = "bass" alt = {Bass} fluid />
 
     <p class="post">This is a <b>Barline</b>. It is used to divide the music and make it easier to read.</p>
 

@@ -31,7 +31,6 @@ headerLinks: [
 ],
 
 home: {
-title: 'The Practicing Drummer',
 },
 
 book: {
@@ -56,12 +55,17 @@ return(
 
 
 
+<Container className = "p-0" fluid = {true} >
+
+
+
 <Nav className=  "justify-content-center">
-<Nav.Item><Link className = "blogNav" to = "/BlogPage" >Blog &bull;</Link></Nav.Item>
-    <Nav.Item><Link className = "mainNav" to="/"> The Practicing Drummer </Link></Nav.Item>
-    <Nav.Item><Link className = "bookNav" to="/BookPage">&bull;  Book</Link></Nav.Item>
+<Nav.Item><Link className = "navLink" to = "/BlogPage" >Blog &bull;</Link></Nav.Item>
+    <Nav.Item><Link className = "navLink" to="/"> The Practicing Drummer </Link></Nav.Item>
+    <Nav.Item><Link className = "navLink" to="/BookPage">&bull;  Book</Link></Nav.Item>
 </Nav>
 
+</Container>
 
 
 

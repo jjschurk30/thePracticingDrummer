@@ -32,7 +32,7 @@ height: 200px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 350px;
+  width: 280px;
   height: 300px;
 }
 
@@ -76,21 +76,6 @@ height: 200px;
   height: 200px;
 }
 
-.quarterRest {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 265px;
-  height: 265px;
-}
-
-.fourRest {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 800px;
-  height: 200px;
-}
 .quarterRest {
   display: block;
   margin-left: auto;
@@ -154,3 +139,94 @@ height: 200px;
   width: 1000px;
 
 }
+
+.NumOne {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+
+}
+
+.NumTwo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+
+}
+
+.NumberOne {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+
+}
+
+.NumberTwo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+
+}
+
+.NumberThree {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+
+}
+
+.eighthNote {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 225px;
+  height: 225px;
+
+}
+
+.twoConnect {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+
+}
+
+.fourConnect {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+
+}
+
+.quarterEighth {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+
+}
+
+.eighthCount {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+
+}
+
+.Core {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  height: 200px;
+
+}
+

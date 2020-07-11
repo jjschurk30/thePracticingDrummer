@@ -36,7 +36,7 @@ function BookPage(props)  {
               <li><Link to="/ChapterOnePractice">Chapter One Practice</Link></li>
               <li><Link to="/ChapterTwoPractice">Chapter Two Practice</Link></li>
               <li><Link to="/ChapterThreePractice">Chapter Three Practice</Link></li>
-              <li><Link to="/ChapterFourPractice">Chapter Ten Practice</Link></li>
+              <li><Link to="/ChapterFourPractice">Chapter Four Practice</Link></li>
               </ul>
   </Content>
 </div>

@@ -1,7 +1,15 @@
 import React from 'react';
 import Hero from '../../components/Hero';
 import Content from '../../components/Content';
-// import { Link } from 'react-router-dom';
+import Image from 'react-bootstrap/Image';
+import CoreOne from '../../images/ChapterFourImages/core_1.png';
+import CoreTwo from '../../images/ChapterFourImages/core_2.png';
+import CoreThree from '../../images/ChapterFourImages/core_3.png';
+import CoreFour from '../../images/ChapterFourImages/core_4.png';
+import CoreOneRide from '../../images/ChapterFourImages/core_1_ride.png';
+import CoreTwoRide from '../../images/ChapterFourImages/core_2_ride.png';
+import CoreThreeRide from '../../images/ChapterFourImages/core_3_ride.png';
+import CoreFourRide from '../../images/ChapterFourImages/core_4_ride.png';
 
 
 
@@ -30,7 +38,13 @@ return (
 
 <h2 class = "chapterNumber">On the Hi-Hat</h2>
 
+        <Image src={CoreOne} class = "Core" fluid />
 
+            <Image src={CoreTwo} class = "Core" fluid />
+
+                <Image src={CoreThree} class = "Core" fluid />
+
+                    <Image src={CoreFour} class = "Core" fluid />
 
                 <h2 class = "chapterNumber">On the Ride</h2>
 
@@ -39,6 +53,14 @@ return (
                 <p class="post"> - Use the tip of the drumstick. Not the shoulder.</p>
 
                 <p class="post">  - Practice in the same way as the hi-hat exercises.</p>
+
+                        <Image src={CoreOneRide} class = "Core" fluid  />
+
+                            <Image src={CoreTwoRide} class = "Core"  fluid />
+
+                                <Image src={CoreThreeRide} class = "Core"  fluid />
+
+                                    <Image src={CoreFourRide} class = "Core" fluid />
 
 
 

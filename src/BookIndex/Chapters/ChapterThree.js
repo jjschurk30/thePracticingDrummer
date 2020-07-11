@@ -1,7 +1,12 @@
 import React from 'react';
 import Hero from '../../components/Hero';
 import Content from '../../components/Content';
-//import { Link } from 'react-router-dom';
+import Image from 'react-bootstrap/Image';
+import NumOne from '../../images/ChapterThreeImages/ch3num_1.png';
+import NumTwo from '../../images/ChapterThreeImages/ch3num_2.png';
+import NumberOne from '../../images/ChapterThreeImages/number_1.png';
+import NumberTwo from '../../images/ChapterThreeImages/number_2.png';
+import NumberThree from '../../images/ChapterThreeImages/number_3.png';
 
 
 
@@ -30,6 +35,8 @@ return (
 
     <h2 class = "chapterNumber">2-Beat</h2>
 
+<Image src={NumOne} class = "NumOne" fluid />
+
 
     <p class = "post">This next example is <b>the most important drum beat</b> of the 20th century… and maybe even the 21st?
         I commonly call it the <b>‘Basic Rock Beat’</b> because it is the foundation of rock ‘n’ roll music. But you will hear
@@ -38,6 +45,9 @@ return (
         <b>MEMORIZE IT!</b>
     </p>
         <h2 class = "chapterNumber">Basic Rock Beat</h2>
+
+
+<Image src={NumTwo} class = "NumTwo"  fluid />
 
 
 
@@ -55,10 +65,17 @@ return (
     <p class = "post">Here is the notation for the <b>ride cymbal</b>:</p>
 
 
+<Image src={NumberOne} class = "chapterThreeNumOne"  fluid />
+
+
 
     <p class = "post">This is what the <b>2-Beat</b> and the <b>Basic Rock Beat</b> look like when played on the ride cymbal:</p>
 
 
+<Image src={NumberTwo} class = "chapterThreeNumTwo"   fluid />
+
+
+<Image src={NumberThree} class = "chapterThreeNumThree"  fluid />
 
 
 

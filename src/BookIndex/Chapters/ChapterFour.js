@@ -106,8 +106,8 @@ return (
         We are allowed to leave ‘home base’ and play fills, solos or cadences but we always return home. This is
         where we’ll  hangout the most so get comfortable playing <b>drum beats</b> for long periods of time. This first
         example is sometimes referred to as a <b>2-Beat</b>. It is very simple in concept but in practice it can be tricky.
-        Count out loud, <b>‘1-2-1-2’</b>, as you play the beat. Counting <b>out loud</b> will help you
-    <b>tremendously</b> in the long run so <b>do it</b>.</p>
+        Count out loud, <b>‘1-2-1-2’</b>, as you play the beat. Counting <b> out loud</b> will help you
+    <b> tremendously</b> in the long run so <b>do it</b>.</p>
 
         <Image src={CoreOne} class = "Core"  fluid />
 

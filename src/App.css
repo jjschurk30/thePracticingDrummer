@@ -47,7 +47,6 @@
 
 .textBody {
 margin-bottom: -48px;
-word-spacing: 5px;
 
 }
 
@@ -55,8 +54,6 @@ word-spacing: 5px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
-  height: 300px;
 }
 
 
@@ -79,17 +76,35 @@ word-spacing: 5px;
         margin-top: 50px;
         }
 
-        .navLink {
-
-                 color: black;
-                 font-size: 18px;
-
-                 }
-
-
+    Nav {
+  font-size: 20px;
+  font-family:Century Gothic;
+      display: block;
+        position: sticky;
+        width: 100%;
 
 
+    }
 
+    .navbar{
+    background-color: #66CDAA;
+    margin-bottom: 40px;
+    }
+
+    Navigation {
+
+    }
+
+
+
+
+
+        .navbarToggle {
+      font-size: 20px;
+      width:30%;
+      margin-left: 10%;
+
+        }
 
 
 .blogWord {
@@ -123,3 +138,8 @@ font-size: 150%;
                        margin-right:auto;
 
 }
+
+Button {
+margin-right: auto;
+}
+

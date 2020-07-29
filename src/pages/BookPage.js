@@ -14,9 +14,9 @@ function BookPage(props)  {
 <Content>
 
 
-          <Hero title = {props.title} />
+       <Hero title = {props.title} />
 
-          <Hero subTitle = {props.subTitle}  />
+         <Hero subTitle = {props.subTitle}  />
 
 
 
@@ -29,6 +29,9 @@ function BookPage(props)  {
           <li><Link to="/ChapterTwo">Chapter Two</Link></li>
           <li><Link to="/ChapterThree">Chapter Three</Link></li>
           <li><Link to="/ChapterFour">Chapter Four</Link></li>
+          <li><Link to="/ChapterFive">Chapter Five</Link></li>
+          <li><Link to="/ChapterSix">Chapter Six</Link></li>
+          <li><Link to="/ChapterSeven">Chapter Seven</Link></li>
       </ul>
 
           <h3>Practice</h3>

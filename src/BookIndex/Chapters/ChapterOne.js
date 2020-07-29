@@ -2,7 +2,8 @@ import React from 'react';
 import Hero from '../../components/Hero';
 import Content from '../../components/Content';
 import Image from 'react-bootstrap/Image';
-//import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
+import Button from '@material-ui/core/Button';
 import Staff from '../../images/ChapterOneImages/staff.png';
 import Clef from '../../images/ChapterOneImages/percussion_clef.png';
 import Bass from '../../images/ChapterOneImages/bass_snare.png';
@@ -92,7 +93,16 @@ return (
 
 
 
+    <Button variant="contained" className = "previous" color="primary" href = "/BookPage">
+      Table of Contents
+    </Button>
+
+
+    <Button className = "next"  variant="contained" color="primary" href = "/ChapterOnePractice">
+      Chapter One Practice
+    </Button>
 </Content>
+
 </div>
 )
 

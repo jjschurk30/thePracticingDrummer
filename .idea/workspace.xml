@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30add243-d806-4214-a0b5-df6ed090fe8e" name="Default Changelist" comment="changes">
-      <change afterPath="$PROJECT_DIR$/src/BookIndex/Chapters/ChapterSeven.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookIndex/Chapters/ChapterSix.js" afterDir="false" />
+    <list default="true" id="30add243-d806-4214-a0b5-df6ed090fe8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookIndex/Chapters/ChapterFour.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookIndex/Chapters/ChapterFour.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookIndex/Chapters/ChapterOne.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookIndex/Chapters/ChapterOne.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/BookPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/BookPage.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,17 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-760">
-              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/App.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+            <state relative-caret-position="192">
+              <caret line="132" column="25" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -47,8 +30,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BookIndex/Chapters/ChapterOne.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+            <state relative-caret-position="39">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BookIndex/CoreFourBook/CoreFourOne.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2091">
+              <caret line="157" selection-start-line="157" selection-end-line="157" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/BookPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
             </state>
           </provider>
         </entry>
@@ -83,15 +84,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BookIndex/Chapters/ChapterTwo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="816">
               <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/images/ChapterSevenImages/transitions_4.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -127,13 +123,14 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/BookIndex/Chapters/ChapterFour.js" />
         <option value="$PROJECT_DIR$/src/BookIndex/Chapters/ChapterOne.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/BookIndex/Chapters/ChapterFive.js" />
-        <option value="$PROJECT_DIR$/src/pages/BookPage.js" />
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/BookIndex/Chapters/ChapterSix.js" />
         <option value="$PROJECT_DIR$/src/BookIndex/Chapters/ChapterSeven.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/pages/BookPage.js" />
+        <option value="$PROJECT_DIR$/src/BookIndex/CoreFourBook/CoreFourOne.js" />
       </list>
     </option>
   </component>
@@ -148,8 +145,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,7 +182,7 @@
               <item name="thepractingdrummer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="BookIndex" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="CoreFourBook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thepractingdrummer" type="b2602c69:ProjectViewProjectNode" />
@@ -198,6 +195,13 @@
               <item name="thepractingdrummer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thepractingdrummer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thepractingdrummer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="CoreFourOneImages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thepractingdrummer" type="b2602c69:ProjectViewProjectNode" />
@@ -257,13 +261,20 @@
       <option name="project" value="LOCAL" />
       <updated>1594497842329</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chapters 5, 6, 7">
+      <created>1595986116636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595986116636</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1292" height="735" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26623377" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27029222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -298,7 +309,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes" />
     <MESSAGE value="changes pt 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes pt 2" />
+    <MESSAGE value="chapters 5, 6, 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapters 5, 6, 7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/logo512.png">
@@ -410,24 +422,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BookIndex/Chapters/ChapterFour.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="32" selection-end-line="144" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/HomePage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
           <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/BookPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -451,20 +449,17 @@
     <entry file="file://$PROJECT_DIR$/src/images/ChapterSevenImages/transitions_4.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/ChapterSevenImages/transitions_3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BookIndex/Chapters/ChapterThree.js">
+    <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="71" />
+        <state relative-caret-position="1513">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BookIndex/Chapters/ChapterTwo.js">
+    <entry file="file://$PROJECT_DIR$/src/BookIndex/Chapters/ChapterFour.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        <state relative-caret-position="204">
+          <caret line="12" column="32" selection-end-line="144" />
         </state>
       </provider>
     </entry>
@@ -475,15 +470,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BookIndex/Chapters/ChapterOne.js">
+    <entry file="file://$PROJECT_DIR$/src/BookIndex/Chapters/ChapterThree.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="71" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/ChapterSevenImages/transitions_1.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BookIndex/Chapters/ChapterSeven.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -492,17 +484,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
+    <entry file="file://$PROJECT_DIR$/src/BookIndex/Chapters/ChapterTwo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-760">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        <state relative-caret-position="816">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
+    <entry file="file://$PROJECT_DIR$/src/images/ChapterSevenImages/transitions_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/ChapterSevenImages/transitions_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+        <state relative-caret-position="192">
+          <caret line="132" column="25" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/BookPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BookIndex/Chapters/ChapterOne.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BookIndex/CoreFourBook/CoreFourOne.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
         </state>
       </provider>
     </entry>

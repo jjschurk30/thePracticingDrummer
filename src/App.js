@@ -24,6 +24,8 @@ import ChapterTwoPractice from './BookIndex/Practice/ChapterTwoPractice';
 import ChapterThreePractice from './BookIndex/Practice/ChapterThreePractice';
 import ChapterFourPractice from './BookIndex/Practice/ChapterFourPractice';
 
+import CoreFourOne from './BookIndex/CoreFourBook/CoreFourOne';
+
 
 class App extends React.Component {
 constructor(props) {
@@ -128,6 +130,7 @@ subTitle = {this.state.book.subTitle} />} />
 
 <Route path="/ChapterSeven" component={ChapterSeven} />
 
+<Route path="/CoreFourOne" component={CoreFourOne} />
 
 </Router>
 

@@ -20,7 +20,7 @@ function BookPage(props)  {
 
 
 
-  <h3>Chapters</h3>
+  <h3>The Beginner's Drum Book</h3>
 
       <ul>
 
@@ -34,13 +34,31 @@ function BookPage(props)  {
           <li><Link to="/ChapterSeven">Chapter Seven</Link></li>
       </ul>
 
-          <h3>Practice</h3>
+          <h3>The Beginner's Drum Book Practice</h3>
           <ul>
               <li><Link to="/ChapterOnePractice">Chapter One Practice</Link></li>
               <li><Link to="/ChapterTwoPractice">Chapter Two Practice</Link></li>
               <li><Link to="/ChapterThreePractice">Chapter Three Practice</Link></li>
               <li><Link to="/ChapterFourPractice">Chapter Four Practice</Link></li>
               </ul>
+
+                <h3>The Core Four Drum Book</h3>
+
+                    <ul>
+
+
+                        <li><Link to="/CoreFourOne">The Core Four: Chapter One</Link></li>
+
+                     </ul>
+
+                                  <h3>The Core Four Book Combo Practice</h3>
+                                  <ul>
+                                      <li><Link to="/ChapterOnePractice">Chapter One Practice</Link></li>
+                                      <li><Link to="/ChapterTwoPractice">Chapter Two Practice</Link></li>
+                                      <li><Link to="/ChapterThreePractice">Chapter Three Practice</Link></li>
+                                      <li><Link to="/ChapterFourPractice">Chapter Four Practice</Link></li>
+                                      </ul>
+
   </Content>
 </div>
 

@@ -51,13 +51,6 @@ function BookPage(props)  {
 
                      </ul>
 
-                                  <h3>The Core Four Book Combo Practice</h3>
-                                  <ul>
-                                      <li><Link to="/ChapterOnePractice">Chapter One Practice</Link></li>
-                                      <li><Link to="/ChapterTwoPractice">Chapter Two Practice</Link></li>
-                                      <li><Link to="/ChapterThreePractice">Chapter Three Practice</Link></li>
-                                      <li><Link to="/ChapterFourPractice">Chapter Four Practice</Link></li>
-                                      </ul>
 
   </Content>
 </div>
